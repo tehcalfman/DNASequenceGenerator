@@ -1,0 +1,3 @@
+/cygdrive/c/Users/niall/CLionProjects/DNASequenceGenerator/cmake-build-debug/CMakeFiles/DNASequenceGenerator.dir
+/cygdrive/c/Users/niall/CLionProjects/DNASequenceGenerator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/niall/CLionProjects/DNASequenceGenerator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
